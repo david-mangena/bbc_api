@@ -1,4 +1,5 @@
-postman_api_automation
+*postman_api_automation*
+
 You can also download the collection file from this repo, then import directly into Postman.
 
 Prerequisites Postman The collection is for use by the Postman app. Postman is a utility that allows you to quickly test and use REST APIs.
